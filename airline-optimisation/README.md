@@ -52,7 +52,7 @@ bash
 jupyter notebook notebooks/optimisation_model.ipynb
 
 Contact
-Mahsa Javadzade Tatabatabaei
+Mahsa Javadzadeh Tatabatabaee
 
 Email: tatabatabae.mhs@gmail.com
 
